@@ -1,0 +1,53 @@
+[
+      {
+        "warespaceid": 1,
+        "stockingid": "1",
+        "location": [
+          {
+            "lat": -27.477947,
+            "lon": 153.028449
+          }
+        ]      
+      },
+      {
+        "warespaceid": 2,
+        "stockingid": "2",
+        "location": [
+          {
+            "lat": -27.478009,
+            "lon": 153.028508
+          }
+        ]      
+      },
+      {
+        "warespaceid": 3,
+        "stockingid": "3",
+        "location": [
+          {
+            "lat": -27.478028,
+            "lon": 153.028573
+          }
+        ]      
+      },
+      {
+        "warespaceid": 4,
+        "stockingid": "4",
+        "location": [
+          {
+            "lat": -27.478109,
+            "lon": 153.028626
+          }
+        ]      
+      },
+      {
+        "warespaceid": 5,
+        "stockingid": "5",
+        "location": [
+          {
+            "lat": -27.478175,
+            "lon": 153.028589
+          }
+        ]      
+      }
+]
+  

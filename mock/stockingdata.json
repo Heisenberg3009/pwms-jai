@@ -1,0 +1,27 @@
+[
+      {
+        "stockingid": 1,
+        "stocktype": "Computers",
+        "stockweight": 22
+      },
+      {
+        "stockingid": 2,
+        "stocktype": "Television",
+        "stockweight": 25
+      },
+      {
+        "stockingid": 3,
+        "stocktype": "Fresh Meat",
+        "stockweight": 12
+      },
+      {
+        "stockingid": 4,
+        "stocktype": "Hospital Supplies",
+        "stockweight": 15
+      },
+      {
+        "stockingid": 5,
+        "stocktype": "Clothes",
+        "stockweight": 5
+      }
+]

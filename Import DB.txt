@@ -1,0 +1,4 @@
+.\mongoimport --uri mongodb+srv://Tulsi:chloe143@cluster0.lobgv.mongodb.net/Team_Goblin --collection Parking --type json --file parkingdata.json --jsonArray
+.\mongoimport --uri mongodb+srv://Tulsi:chloe143@cluster0.lobgv.mongodb.net/Team_Goblin --collection Warehouse --type json --file warehousedata.json --jsonArray
+.\mongoimport --uri mongodb+srv://Tulsi:chloe143@cluster0.lobgv.mongodb.net/Team_Goblin --collection Vehicles --type json --file vehicledata.json --jsonArray
+.\mongoimport --uri mongodb+srv://Tulsi:chloe143@cluster0.lobgv.mongodb.net/Team_Goblin --collection Stockings --type json --file stockingdata.json --jsonArray

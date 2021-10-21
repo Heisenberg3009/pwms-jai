@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "age": "14",
+      "city": "Brisbane",
+      "phone": "8903488199",
+      "email":"alex123@gmail.com",
+      "organization": "alexbig",
+      "job":"driver",
+      "password":"alex123"
+
+
+    }
+  ]
+}

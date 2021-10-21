@@ -1,0 +1,36 @@
+[
+      {
+        "id": 1,
+        "name": "Alex",
+        "age": "14",
+        "city": "Brisbane",
+        "slotnumber": 4
+      },
+      {
+        "id": 2,
+        "name": "Eren",
+        "age": "20",
+        "city": "Madrid",
+        "slotnumber": 3
+      },
+      {
+        "id": 3,
+        "name": "Carla",
+        "age": "20",
+        "city": "Barcelona",
+        "slotnumber": 5
+      },
+      {
+        "id": 4,
+        "name": "Sandra",
+        "age": "21",
+        "city": "Sevilla",
+        "slotnumber": 2
+      },
+      { "id":5,
+        "name": "Veronica",
+        "age": "22",
+        "city": "Paris",
+        "slotnumber": 1
+      }
+]
